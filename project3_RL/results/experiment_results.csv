@@ -1,0 +1,6 @@
+Environment,Algorithm,Training Steps,Average Reward,Std
+CartPole-v1,PPO,10000,292.2,104.02
+CartPole-v1,PPO,50000,500.0,0.0
+Breakout-v5,PPO,50000,0.4,1.2
+Breakout-v5,PPO,100000,0.4,0.8
+Breakout-v5,PPO,200000,0.4,1.2
